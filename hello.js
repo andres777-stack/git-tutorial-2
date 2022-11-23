@@ -1,2 +1,2 @@
 console.log('version3');
-console.log('feature1');
+console.log('feature2');
